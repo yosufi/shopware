@@ -1,3 +1,9 @@
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+# shopware
+=======
+>>>>>>> 17bae2b (Your commit message)
 # Next.js Shopware Starter
 
 A high-performance, server-rendered Next.js App Router ecommerce application.
@@ -73,3 +79,7 @@ Any questions, issues or feature requests? Feel free to join the community.
 <p align="left">
 <a href="https://shopwarecommunity.slack.com/archives/C050L6NCMGQ" target="_blank"><img src="https://raw.githubusercontent.com/shopwareLabs/nextjs-shopware-starter/main/public/slack.svg" alt="Join our Slack Channel" width="20" height="16"/>Channel</a> | <a href="https://github.com/shopware/frontends/discussions">💬 Discuss</a> | <a href="https://frontends.shopware.com/" target="_blank">📚 Docu</a> | <a href="https://shopware-vercel-commerce-react.vercel.app/" target="_blank">🚀 Demo</a>
 </p>
+<<<<<<< HEAD
+=======
+>>>>>>> 9e892a0 (Add all my files to the shopware repository)
+>>>>>>> 17bae2b (Your commit message)
