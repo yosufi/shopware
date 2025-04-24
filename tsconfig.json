@@ -1,11 +1,6 @@
 {
   "compilerOptions": {
     "target": "es6",
-    "module": "commonjs",
-    "types": ["@playwright/test"] // Optional, but can help TypeScript find the types
-    ,
-
-    // "target": "es2015",
     "lib": ["dom", "dom.iterable", "esnext"],
     "downlevelIteration": true,
     "allowJs": true,
@@ -14,7 +9,7 @@
     "forceConsistentCasingInFileNames": true,
     "noEmit": true,
     "esModuleInterop": true,
-    // "module": "esnext",
+    "module": "esnext",
     "moduleResolution": "node",
     "resolveJsonModule": true,
     "isolatedModules": true,
