@@ -1,10 +1,17 @@
 {
   "name": "e2e-tests",
   "version": "1.0.0",
+  "engines": {
+    "node": "22.14"
+  },
   "description": "",
   "main": "index.js",
+  
   "scripts": {
-    "test:e2e": "playwright test e2e"
+    "test:e2e": "playwright test e2e",
+    "test": "playwright test",
+    "build": "your-build-command && npm run test --prefix e2e-tests"
+
   },
   "keywords": [],
   "author": "",
